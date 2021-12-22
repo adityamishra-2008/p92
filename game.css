@@ -1,0 +1,59 @@
+body
+{
+	background: #cf00eb;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: rgba(3, 3, 3, 0.76);
+	font-size: 20px;
+}
+#player1_score , #player2_score
+{
+	font-size: 20px;
+	
+	color: rgb(7, 7, 7);
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: #fffafa;
+border-radius: 10px;
+border-top: 10px solid #fa3979cc;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h3{
+	font-size: 30px;
+}
+h4{
+	font-size:25px;
+}
+input{
+	width: 50%;
+height:25% ;
+}
+#input_check_box{
+	width: 50%;
+	height:30% ;
+
+}

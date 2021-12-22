@@ -1,0 +1,66 @@
+body
+{
+	background-image: url("https://i.ibb.co/5Wb1sBb/4ad48273-6eca-4d26-ae8c-88eaa4852f15.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: wheat;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(126, 122, 122);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #6b44aa;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color: rgb(255, 0, 0);
+	font-family: 'Akaya Kanadaka', cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: teal;
+}
+label{
+	font-family: 'Yellowtail', cursive;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input:hover{
+	background-color: rgb(0, 255, 255);
+}
+div:hover{
+	border: 5px solid rgb(6, 220, 248);
+	width: 35%;
+}
